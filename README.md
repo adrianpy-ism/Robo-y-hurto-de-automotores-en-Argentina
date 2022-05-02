@@ -2,7 +2,7 @@
 
 El proyecto surgió de la conversación con un amigo que desea comprar un auto usado y entre las posibles elecciones que evaluaba, algunas tenían la sospecha de que eran autos demandados para robo o hurto.
 
-El objetivo del proyecto surge así y trato de determinar las marcas y modelo mas robadas. Una vez avanzado en el análisis, se amplia a regiones geográficas donde mas se asientan las denuncias de propietarios y un ranking para recomendar evitar esos automotores demandados o bien extremar las medidas de resguardo del vehículo en las zonas mas problemáticas con el hurto y robo de automotores.
+El objetivo del proyecto surge así y trato de determinar las marcas y modelo mas robadas. Una vez avanzado en el análisis, se amplia a regiones geográficas donde mas se asientan las denuncias de propietarios y un ranking para recomendar evitar esos automotores demandados o bien extremar las medidas de resguardo del vehículo en las zonas mas problemáticas de hurto y robo de automotores.
 
 Este análisis requirió limpieza y modelado de datos en Power BI, tablas condicionales con power query, fórumlas DAX: CALCULATE, FILTER, COUNT, SUM, SWITCH, ALL, IF, HASONEVALUE, VAR Y RANK
 
