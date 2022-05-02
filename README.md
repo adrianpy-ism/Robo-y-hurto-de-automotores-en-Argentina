@@ -21,7 +21,8 @@ La provincia de Buenos Aires concentra el 67% de las denuncias de los propietari
 
 La Matanza, el partido bonaerense donde mas denuncias se producen, ocupa el 17%. Lomas de Zamora tiene el 6,5%. Le siguen La Plata, Lanús, Adrogué y Quilmes con casi el 5%. Y el resto de los partidos se posicionan por debajo del 4%. 
 
-![image](https://user-images.githubusercontent.com/60670785/166170094-7d8197a4-776b-43a7-9d2a-8457f36e42ef.png)
+![3F23 tmp](https://user-images.githubusercontent.com/60670785/166257098-29d3d26d-dcc6-4512-a45c-b57eccb52f3a.png)
+
 
 Y para mi amigo creé un buscador para que puede verificar el riesgo de automotor por cantidad de denuncias y zonas geográficas.
 
